@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../test/images
+train: train/images
+val: test/images
 
 nc: 10
 names: ['Hello','Yes','No','Thanks','IloveYou','Please','Help','ask','home','wait']
